@@ -19,6 +19,11 @@ The **Describe-and-Generate Game** is an interactive web application that allows
 - [Pillow](https://python-pillow.org/) for image processing.
 - [Hugging Face API](https://huggingface.co/docs) for image captioning and generation.
 
+## ScreenShot:
+![image](https://github.com/user-attachments/assets/ec9fa6ea-3667-4e99-87a7-59bda63c4108) ![image](https://github.com/user-attachments/assets/74cfa118-2f69-44f8-a81c-81f8cb87cb52)
+
+
+
 ## Installation
 
 ### Prerequisites
