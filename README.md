@@ -1,4 +1,4 @@
-# gradio_image-text_game
+# Image-text-Image-Audio using Gradio
 
 Here's a sample `README.md` for your project, tailored to include key sections that describe your project, its installation, usage, and other relevant details. You can customize it further based on your specific needs.
 
